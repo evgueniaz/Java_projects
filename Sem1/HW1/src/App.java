@@ -16,9 +16,9 @@ public class App {
     public static void main(String[] args) throws Exception {
         
         // System.out.println("Sum of natural numbers up to your number equals " 
-        // + task1());
+        // task1();
         // task2();
-        //  task3();
+        // task3();
         // task4();
         task5();
     }
