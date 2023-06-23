@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-23T16:01:50.190775400Z</date>
+  <millis>1687536110190</millis>
+  <nanos>775400</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 45</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.204309700Z</date>
+  <millis>1687536110204</millis>
+  <nanos>309700</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 7</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.204309700Z</date>
+  <millis>1687536110204</millis>
+  <nanos>309700</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 14</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.205308900Z</date>
+  <millis>1687536110205</millis>
+  <nanos>308900</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 99</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.205308900Z</date>
+  <millis>1687536110205</millis>
+  <nanos>308900</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 1</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.205308900Z</date>
+  <millis>1687536110205</millis>
+  <nanos>308900</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.206307900Z</date>
+  <millis>1687536110206</millis>
+  <nanos>307900</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>509 - 3</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.206307900Z</date>
+  <millis>1687536110206</millis>
+  <nanos>307900</nanos>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>509 - 78</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.207320700Z</date>
+  <millis>1687536110207</millis>
+  <nanos>320700</nanos>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>509 - 22</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.207320700Z</date>
+  <millis>1687536110207</millis>
+  <nanos>320700</nanos>
+  <sequence>9</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 7</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.207320700Z</date>
+  <millis>1687536110207</millis>
+  <nanos>320700</nanos>
+  <sequence>10</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 14</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.208318500Z</date>
+  <millis>1687536110208</millis>
+  <nanos>318500</nanos>
+  <sequence>11</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 1</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.208318500Z</date>
+  <millis>1687536110208</millis>
+  <nanos>318500</nanos>
+  <sequence>12</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.209321900Z</date>
+  <millis>1687536110209</millis>
+  <nanos>321900</nanos>
+  <sequence>13</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 3</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.209321900Z</date>
+  <millis>1687536110209</millis>
+  <nanos>321900</nanos>
+  <sequence>14</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 78</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.209321900Z</date>
+  <millis>1687536110209</millis>
+  <nanos>321900</nanos>
+  <sequence>15</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 22</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.210316500Z</date>
+  <millis>1687536110210</millis>
+  <nanos>316500</nanos>
+  <sequence>16</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 7</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.210316500Z</date>
+  <millis>1687536110210</millis>
+  <nanos>316500</nanos>
+  <sequence>17</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 1</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.210316500Z</date>
+  <millis>1687536110210</millis>
+  <nanos>316500</nanos>
+  <sequence>18</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.211312800Z</date>
+  <millis>1687536110211</millis>
+  <nanos>312800</nanos>
+  <sequence>19</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 3</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.211312800Z</date>
+  <millis>1687536110211</millis>
+  <nanos>312800</nanos>
+  <sequence>20</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 78</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.212312800Z</date>
+  <millis>1687536110212</millis>
+  <nanos>312800</nanos>
+  <sequence>21</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 22</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.212312800Z</date>
+  <millis>1687536110212</millis>
+  <nanos>312800</nanos>
+  <sequence>22</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>14 - 1</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.212312800Z</date>
+  <millis>1687536110212</millis>
+  <nanos>312800</nanos>
+  <sequence>23</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>14 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.212312800Z</date>
+  <millis>1687536110212</millis>
+  <nanos>312800</nanos>
+  <sequence>24</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 3</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.213311700Z</date>
+  <millis>1687536110213</millis>
+  <nanos>311700</nanos>
+  <sequence>25</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>78 - 22</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.213311700Z</date>
+  <millis>1687536110213</millis>
+  <nanos>311700</nanos>
+  <sequence>26</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 1</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.213311700Z</date>
+  <millis>1687536110213</millis>
+  <nanos>311700</nanos>
+  <sequence>27</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.213311700Z</date>
+  <millis>1687536110213</millis>
+  <nanos>311700</nanos>
+  <sequence>28</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>14 - 3</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.213311700Z</date>
+  <millis>1687536110213</millis>
+  <nanos>311700</nanos>
+  <sequence>29</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 22</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.213311700Z</date>
+  <millis>1687536110213</millis>
+  <nanos>311700</nanos>
+  <sequence>30</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>7 - 1</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.214307300Z</date>
+  <millis>1687536110214</millis>
+  <nanos>307300</nanos>
+  <sequence>31</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>7 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.214307300Z</date>
+  <millis>1687536110214</millis>
+  <nanos>307300</nanos>
+  <sequence>32</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 3</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.214307300Z</date>
+  <millis>1687536110214</millis>
+  <nanos>307300</nanos>
+  <sequence>33</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>1 - 0</message>
+</record>
+<record>
+  <date>2023-06-23T16:01:50.215312300Z</date>
+  <millis>1687536110215</millis>
+  <nanos>312300</nanos>
+  <sequence>34</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>7 - 3</message>
+</record>
+</log>
