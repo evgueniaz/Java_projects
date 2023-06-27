@@ -11,18 +11,18 @@ public class Task2 {
         Integer[] array1 = new Integer [] {8, 0, -3, 5, 6, 9, 8, -4, 2, -99, 43};
         List<Integer> arr = Arrays.asList(array1);
         System.out.println(arr);
-        deleteEven(arr);
-        // System.out.println(arr);
+        List<Integer> arr2 = deleteEven(arr);
+        System.out.println(arr2);
     }
 
-    public static void deleteEven(List<Integer> lst) {
+    public static List<Integer> deleteEven(List<Integer> lst) {
             
             for (int i = 0; i < lst.size(); i++) {
                 if (lst.get(i) % 2 == 0) {
                     lst.remove(i);
                 }
             }
-            System.out.println(lst);
+            return lst;
     }
         
 }
