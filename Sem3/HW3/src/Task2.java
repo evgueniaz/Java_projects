@@ -11,21 +11,21 @@ public class Task2 {
         Integer[] array1 = new Integer [] {8, 0, -3, 5, 6, 9, 8, -4, 2, -99, 43};
         List<Integer> arr = Arrays.asList(array1);
         System.out.println(arr);
-        List<Integer> arr2 = deleteEven(arr);
-        System.out.println(arr2);
-    }
-
-    public static List<Integer> deleteEven(List<Integer> lst) {
-            
-            for (int i = 0; i < lst.size(); i++) {
-                if (lst.get(i) % 2 == 0) {
-                    lst.remove(i);
-                }
-            }
-            return lst;
-    }
         
+        deleteEven(arr);
+        // System.out.println(arr);
+    }
+
+    public static void deleteEven(List<Integer> lst) {
+            
+        List<Integer> swap = new ArrayList<>();
+        for (Integer item: lst) {
+            if (item % 2 == 0) {
+                swap.add(item);
+                }   
+            }
+        System.out.println("Элементы которые нужно удалить: " + swap);
+        lst.removeAll(swap);
+        System.out.println("Результирующий массив: " + lst);
+        }
 }
-
-          
-
