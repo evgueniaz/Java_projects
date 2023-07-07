@@ -17,8 +17,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
-
 import LaptopLibrary.Laptop;
 
 public class App {
@@ -32,7 +30,7 @@ public class App {
         Laptop laptop6 = laptop4;
         Laptop laptop7 = laptop3;
 
-        Set<Laptop> uniqueLaptop = new HashSet<Laptop>();
+        HashSet<Laptop> uniqueLaptop = new HashSet<Laptop>();
         uniqueLaptop.add(laptop1);
         uniqueLaptop.add(laptop2);
         uniqueLaptop.add(laptop3);
@@ -44,7 +42,9 @@ public class App {
         System.out.println(laptop1.equals(laptop5));
 
         System.out.printf("The number of unique laptops is: %d \n", uniqueLaptop.size());
-        System.out.println(Set<Laptop>);
+        System.out.println(laptop1);
+        System.out.println(laptop2);
+
 
         Map<Integer, String> mapCriteria = new HashMap<>();
         mapCriteria.put(1, "Brand");
@@ -56,12 +56,12 @@ public class App {
         mapCriteria.put(7, "Screen size");
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите желаемые характеристики: 1. объем оперативной памяти: ");
+        System.out.println("Enter a minimal desirable amount of: 1. RAM: ");
         int ramUser = sc.nextInt();
-        System.out.println("объем накопителя: ");
+        System.out.println("SSD: ");
         int storUser = sc.nextInt();
         
-        System.out.println("диагональ");
+        System.out.println("Screen diagonal");
         double digUser = sc.nextDouble();
         
         for(Laptop lap: uniqueLaptop) {
@@ -69,7 +69,6 @@ public class App {
                 System.out.println(lap.toString());
             }
         }
-        sc.close();
         
     }
 }
